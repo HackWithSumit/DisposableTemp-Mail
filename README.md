@@ -33,6 +33,10 @@ Then copy  guerrilla to universal directory:
 
      sudo cp -r guerrilla /usr/local/bin
 
+Then type for launch :
+
+      guerrilla
+
 
      
 
