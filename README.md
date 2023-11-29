@@ -29,6 +29,11 @@ Compile go file :
 
      go build .
 
+Then copy  guerrilla to universal directory:
+
+     sudo cp -r guerrilla /usr/local/bin
+
+
      
 
      
