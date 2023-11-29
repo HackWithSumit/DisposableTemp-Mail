@@ -5,4 +5,30 @@ Git Repositories:
 
      git clone https://github.com/liamg/guerrilla.git
 
+Enter Directory:
+
+    cd guerrilla
+
+Execute files:
+
+     chmod +x *
+
+Go to cmd directory:
+
+      cd cmd
+
+Go to guerrilla directory:
+
+      cd guerrilla
+
+If not install golang then use this:
+
+     sudo apt install golang
+
+Compile go file :
+
+     go build .
+
+     
+
      
